@@ -53,22 +53,22 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>留言板</title>
+      <link href="/messageboard/index.html"/>
+      <url>/messageboard/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="我是标签页"><a href="#我是标签页" class="headerlink" title="我是标签页"></a>我是标签页</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="来吐槽呀"><a href="#来吐槽呀" class="headerlink" title="来吐槽呀~"></a>来吐槽呀~</h1>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/messageboard/index.html"/>
-      <url>/messageboard/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="来吐槽呀"><a href="#来吐槽呀" class="headerlink" title="来吐槽呀~"></a>来吐槽呀~</h1>]]></content>
+        <content type="html"><![CDATA[<h2 id="我是标签页"><a href="#我是标签页" class="headerlink" title="我是标签页"></a>我是标签页</h2>]]></content>
       
     </entry>
     
