@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>VScode 设置中文</title>
+      <link href="/2020/05/22/VScode-%E8%AE%BE%E7%BD%AE%E4%B8%AD%E6%96%87/"/>
+      <url>/2020/05/22/VScode-%E8%AE%BE%E7%BD%AE%E4%B8%AD%E6%96%87/</url>
+      
+        <content type="html"><![CDATA[<p>一、打开vcode后 使用快捷键<br><strong>Ctrl + Shift + P</strong></p><p>二、输入<strong>configure language</strong><br><img src="/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200522155353492.png"  alt="在这里插入图片描述"><br><img src="/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200522155523151.png"  alt="在这里插入图片描述"><br><img src="/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200522155617690.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTgyMjIyNA==,size_16,color_FFFFFF,t_70"  alt="在这里插入图片描述"><br><img src="/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200522155739185.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTgyMjIyNA==,size_16,color_FFFFFF,t_70"  alt="在这里插入图片描述"><br><img src="/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200522155756862.png"  alt="在这里插入图片描述"></p><p>完工！<br><img src="/" class="lazyload" data-src="https://img-blog.csdnimg.cn/20200522155829741.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTgyMjIyNA==,size_16,color_FFFFFF,t_70"  alt="在这里插入图片描述"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数据API汇总</title>
       <link href="/2020/04/23/%E6%8D%AEAPI%E6%B1%87%E6%80%BB/"/>
       <url>/2020/04/23/%E6%8D%AEAPI%E6%B1%87%E6%80%BB/</url>
@@ -96,22 +109,22 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="我是分类页"><a href="#我是分类页" class="headerlink" title="我是分类页"></a>我是分类页</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="交换友情链接请留言"><a href="#交换友情链接请留言" class="headerlink" title="交换友情链接请留言"></a>交换友情链接请留言</h1>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="交换友情链接请留言"><a href="#交换友情链接请留言" class="headerlink" title="交换友情链接请留言"></a>交换友情链接请留言</h1>]]></content>
+        <content type="html"><![CDATA[<h2 id="我是分类页"><a href="#我是分类页" class="headerlink" title="我是分类页"></a>我是分类页</h2>]]></content>
       
     </entry>
     
